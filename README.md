@@ -34,7 +34,7 @@ Categories=Accessories
 
 The desktop shortcuts will be available for a user to single tap to open a desktop shortcut. To set the preference for single tap, set it in the filemanager preferences.
 
-shutdown.desktop
+* shutdown.desktop
 ```
 [Desktop Entry]
 Version=1.0
@@ -47,7 +47,7 @@ Terminal=false
 Categories=Accessories
 ```
 
-sync.desktop
+* sync.desktop
 ```
 [Desktop Entry]
 Version=1.0
